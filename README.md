@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbidJohar
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Mernstack development
+- 🌱 I’m currently working as a  Mernstack developer
 - 💞️ I’m looking to collaborate on system limited
 - 📫 How to reach me using my abidjohar786@gmail.com
 
