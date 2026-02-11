@@ -27,7 +27,7 @@ const abid = {
   belief  : "A slow API is a broken API.",
 
   focus   : ["Scalable REST APIs", "Secure Auth Systems", "DB Architecture"],
-  learning: ["System Design", "Backend Perf Optimization", "Advanced AWS"],
+  improving: ["System Design", "Backend Perf Optimization", "Advanced AWS"],
   openTo  : ["Backend (Node.js) Roles", "Full Stack Roles", "OSS Collaboration"],
 
   contact : "abidjohar786@gmail.com"
@@ -84,19 +84,31 @@ const abid = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbidJohar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c0c0e&title_color=e8ff5a&icon_color=ff6b35&text_color=d4d4e0&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidJohar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c0c0e&title_color=e8ff5a&text_color=d4d4e0" height="165"/>
+![Contributions](https://img.shields.io/badge/Total_Contributions-356-e8ff5a?style=for-the-badge&labelColor=0c0c0e)
+&nbsp;
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-12_Days-ff6b35?style=for-the-badge&labelColor=0c0c0e)
+&nbsp;
+![Since](https://img.shields.io/badge/Coding_Since-May_2023-4ade80?style=for-the-badge&labelColor=0c0c0e)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidJohar&theme=tokyonight&hide_border=true&background=0c0c0e&stroke=1e1e24&ring=e8ff5a&fire=ff6b35&currStreakLabel=e8ff5a" width="500"/>
+![Stack](https://img.shields.io/badge/Primary_Stack-JavaScript_%7C_Node.js-339933?style=for-the-badge&labelColor=0c0c0e&logo=nodedotjs)
+&nbsp;
+![Repos](https://img.shields.io/badge/GitHub-AbidJohar-181717?style=for-the-badge&labelColor=0c0c0e&logo=github)
 
 </div>
 
 ---
+
+```
+📅  Active Since     May 31, 2023 — Present
+🔥  Current Streak   Building daily
+🏆  Longest Streak   12 days  (Jul 22 – Aug 2, 2025)
+⭐  Contributions    356 and counting
+💻  Top Language     JavaScript / Node.js
+```
 
 <!-- CURRENTLY LEARNING -->
 ## Currently Deep In
@@ -134,7 +146,7 @@ My code reviews ask one question: **what happens when this fails at scale?**
 ---
 
 <!-- CONNECT -->
-## 📬 Let's Build Something
+## Let's Build Something
 
 <div align="center">
 
